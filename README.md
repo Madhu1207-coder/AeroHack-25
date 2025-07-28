@@ -145,21 +145,22 @@ This tool aims to help **beginners learn how to solve a cube** by:
 
 ---
 
-## 📸 Screenshots
+# 📷 Screenshot Gallery
 
-*📌 Add screenshots to the `/images` folder and reference them here:*
+This section showcases the core input and output screenshots of the AeroHack-25 solution. These examples help visualize the working of the model for both **color** and **text** processing.
 
-![Text Scramble Mode](images/scramble-mode.png)
-![Color Input Mode](images/color-mode.png)
-![Solution Animation](images/solution-mode.png)
+| Type                   | Screenshot |
+|------------------------|------------|
+| 🎨 Color Input (Sample 1)  | ![Color Input](https://github.com/Madhu1207-coder/AeroHack-25/blob/main/code/images/color%20input.jpeg) |
+| 🎨 Color Input (Sample 2)  | ![ColorInput](https://github.com/Madhu1207-coder/AeroHack-25/blob/main/code/images/ColorInput.jpeg) |
+| 🎨 Color Output (Solution 1) | ![Color Solution](https://github.com/Madhu1207-coder/AeroHack-25/blob/main/code/images/Color%20Solution.jpeg) |
+| 🎨 Color Output (Solution 2) | ![ColorSolution](https://github.com/Madhu1207-coder/AeroHack-25/blob/main/code/images/ColorSolution.jpeg) |
+| 📝 Text Input              | ![Text Input](https://github.com/Madhu1207-coder/AeroHack-25/blob/main/code/images/Text.jpeg) |
+| 📝 Text Output             | ![Text Output](https://github.com/Madhu1207-coder/AeroHack-25/blob/main/code/images/text%201.jpeg) |
 
----
 
-## 📝 License
 
-This project is licensed under the [MIT License](LICENSE.txt).
 
----
 
 ## 🙋‍♀️ Developed By
 
@@ -173,7 +174,3 @@ This project is licensed under the [MIT License](LICENSE.txt).
 
 ```
 
----
-
-Would you like a matching **GitHub profile README**, **badges**, or a demo video link embed added too?
-```
