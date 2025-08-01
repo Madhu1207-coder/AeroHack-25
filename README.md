@@ -15,6 +15,11 @@ This Java-based application offers an intuitive Swing-based interface that allow
 
 ---
 
+<p align="center">
+  <img src="https://blogs.mathworks.com/cleve/files/Q26solve.gif" alt="Rubik's Cube Solver GIF" width="400">
+</p>
+
+
 ## 🎯 Key Features
 
 ### 🧩 Two Modes of Cube Input
