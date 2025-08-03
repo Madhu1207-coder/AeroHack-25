@@ -48,7 +48,7 @@ This Java-based application offers an intuitive Swing-based interface that allow
 |-----------------|-----------------------------|
 | Java (JDK 1.8+) | Core application logic       |
 | Swing           | GUI Interface                |
-| Beginner’s Method | Cube solving algorithm     |
+| Advanced/Complex Method | Cube solving algorithm     |
 
 ---
 
