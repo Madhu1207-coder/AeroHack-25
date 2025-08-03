@@ -142,7 +142,7 @@ Before using scramble input, learn the **standard Rubik’s Cube notation**:
 
 ## 👨‍🏫 Educational Objective
 
-This tool aims to help **beginners learn how to solve a cube** by:
+This tool aims to help **learn how to solve a cube** by:
 
 * Breaking down steps using a real-world approach.
 * Visually demonstrating solving logic.
