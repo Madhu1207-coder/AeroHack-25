@@ -159,7 +159,8 @@ This section showcases the core input and output screenshots of the AeroHack-25 
 | 🎨 Color Input (Sample 1)  | ![Color Input](https://github.com/Madhu1207-coder/AeroHack-25/blob/main/code/images/color%20input.jpeg) |
 | 🎨 Color Output (Solution 1) | ![Color Solution](https://github.com/Madhu1207-coder/AeroHack-25/blob/main/code/images/Color%20Solution.jpeg) |
 | 📝 Text Input              | ![Text Input](https://github.com/Madhu1207-coder/AeroHack-25/blob/main/code/images/Text.jpeg) |
-| 📝 Text Output             | ![Text Output](https://github.com/Madhu1207-coder/AeroHack-25/blob/main/code/images/text%201.jpeg) |
+| 📝 Text Output             | ![Text Output](![final output](https://github.com/user-attachments/assets/11d9025e-3432-44bc-83fb-66ded8531cf8)
+) |
 
 
 
