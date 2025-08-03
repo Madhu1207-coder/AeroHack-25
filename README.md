@@ -11,7 +11,7 @@ It addresses the challenge:
 
 > _"Participants are challenged to design and implement an algorithm that can solve a standard 3x3 Rubik’s Cube from any scrambled state. The solution must mimic the real-world logic of solving a cube through a sequence of valid moves."_
 
-This Java-based application offers an intuitive Swing-based interface that allows users to input a Rubik’s Cube configuration—either through standard scramble notation or manual color selection—and visualize a solution using a beginner-friendly layer-by-layer method.
+This Java-based application offers an intuitive Swing-based interface that allows users to input a Rubik’s Cube configuration—either through standard scramble notation or manual color selection—and visualize a solution using a layer-by-layer method.
 
 ---
 
